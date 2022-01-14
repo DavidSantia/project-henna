@@ -1,0 +1,3 @@
+domain: BROWSER
+type: APPLICATION
+description: 'Static threshold alert for high response time'

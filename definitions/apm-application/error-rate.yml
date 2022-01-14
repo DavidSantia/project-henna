@@ -1,0 +1,3 @@
+domain: APM
+type: APPLICATION
+description: 'Static threshold alert for high error rate'

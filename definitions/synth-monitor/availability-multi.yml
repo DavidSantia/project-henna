@@ -1,0 +1,3 @@
+domain: SYNTH
+type: MONITOR
+description: 'Check failure alert for multiple location'

@@ -1,0 +1,3 @@
+domain: INFRA
+type: HOST
+description: 'Static threshold alert for high cpu utilization'
